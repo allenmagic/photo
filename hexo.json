@@ -1,0 +1,10 @@
+{
+   "src_dir"            :   "/Users/Eggs/Pictures/blog",
+   "access_key"         :   "wvCGeZFwusec8ZGzN_aeXgU29GwkNneNGJw3SJiF",
+   "secret_key"         :   "6hjXnw4yEvxS64kdZURfMTYNP5lrr_nQyBpoyLXP",
+   "bucket"             :   "picture",
+   "overwrite"          :   true,
+   "check_exists"       :   true,
+   "rescan_local"       :   true,
+   "skip_suffixes"      :   ".DS_Store"
+}
